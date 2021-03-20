@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Wayne Leo Kenney"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a Data Scientist"
+  bio              : "I am a Data Scientist."
   location         : 
   email            :
   links:
