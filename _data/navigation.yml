@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Beautiful Statistics Github"
+    url: github.com/beautifulstatistics
   - title: "RStan Server"
     url: 209.95.136.159:8787
   # - title: "About"
